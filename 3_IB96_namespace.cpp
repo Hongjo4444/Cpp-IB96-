@@ -1,9 +1,9 @@
 #include <iostream>
 
+using namespace std; //namespace std 사용
+
 int main()
 {
-	using namespace std; //namespace std 사용
-
 	cout << "구매금액을 입력하세요.\n";
 	
 	int caltot,calpoint; //C는 변수를 가장 처음에 정의해줘야 하지만, C++은 중간에 정의해도 상관없음
