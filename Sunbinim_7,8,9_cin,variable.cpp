@@ -19,6 +19,10 @@ int main()
 	string s;
 	cin >> s;
 	cout << s << endl;
+	
+	int a,b,c,d,e;
+	cin >> a >> b >> c >> d >> e; //한번에 입출력 가능
+	cout << a << b << c << d << e;
 
 	double a;
 	int l,k;
